@@ -1,5 +1,6 @@
-## Hi there 👋  I'm Somaya  
-I'm a Front-End Developer learning HTML, CSS & JS.  
+## Hi there 👋  I'm Somaya 
+👩‍💻 Graduate of the College of Computer Science and Engineering , Department of Computer Science Taibah University
+⚡ My skills :Programming , UI/UX design , Web development
 🔭 I’m currently working on simple web projects like color flipper, weather app, and more.  
 
 <!--
