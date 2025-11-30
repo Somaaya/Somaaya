@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋  I'm Somaya  
+I'm a Front-End Developer learning HTML, CSS & JS.  
+🔭 I’m currently working on simple web projects like color flipper, weather app, and more.  
 
 <!--
 **Somaaya/Somaaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
